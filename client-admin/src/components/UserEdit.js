@@ -1,5 +1,5 @@
-import React from 'react'
-import { Edit, SimpleForm, TextInput } from 'react-admin'
+import React from 'react';
+import { Edit, SimpleForm, TextInput } from 'react-admin';
 
 const UserEdit = (props) => {
   return (
@@ -10,7 +10,7 @@ const UserEdit = (props) => {
         <TextInput source='email' />
       </SimpleForm>
     </Edit>
-  )
-}
+  );
+};
 
-export default UserEdit
+export default UserEdit;

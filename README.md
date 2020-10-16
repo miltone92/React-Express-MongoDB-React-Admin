@@ -13,12 +13,12 @@ cd client
 npm install
 cd ..
 
-# Run client and server (Visit http://localhost:3000)
+# Run client-admin and server (Visit http://localhost:3000)
 npm run dev
 
 # Run server only (:5000)
 npm run server
 
-# Run client only (:3000)
-npm run client
+# Run client-admin only (:3000)
+npm run client-admin
 ```
