@@ -1,4 +1,4 @@
-# React Admin Example
+# Express Server | MongoDB Connection | React-Admin Client
 
 > An express server connected to a react-admin client
 
