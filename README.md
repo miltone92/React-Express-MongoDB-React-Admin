@@ -1,6 +1,6 @@
 # React Admin Example
 
-> A express server connected to a react-admin client
+> An express server connected to a react-admin client
 
 ## Usage
 
