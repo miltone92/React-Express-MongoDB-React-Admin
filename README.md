@@ -1,6 +1,6 @@
 # React Admin Example
 
-> Example of React Admin. We use JSON-Server for our REST API
+> A express server connected to a react-admin client
 
 ## Usage
 
@@ -9,9 +9,7 @@
 npm install
 
 # Install client dependencies
-cd client
-npm install
-cd ..
+npm run client-admin-install
 
 # Run client-admin and server (Visit http://localhost:3000)
 npm run dev
